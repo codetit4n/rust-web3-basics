@@ -2,7 +2,7 @@
 
 A simple implementation for web3 crate of rust. It query the blockchain node and gets you your approx. ether balance.
 
-Reference: https://tms-dev-blog.com/rust-web3-connect-to-ethereum/
+Blog with explanation: https://blog.lokeshkr.com/rust-talk-to-the-ethereum-blockchain
 
 To run the project:
 
