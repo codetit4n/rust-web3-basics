@@ -2,7 +2,7 @@
 
 A simple implementation for web3 crate of rust. It query the blockchain node and gets you your approx. ether balance.
 
-Blog with explanation: https://blog.lokeshkr.com/rust-talk-to-the-ethereum-blockchain
+Blog with explanation: https://codetitan.hashnode.dev/rust-talk-to-the-ethereum-blockchain
 
 To run the project:
 
@@ -13,6 +13,7 @@ Step 2: Rename the .env.example to .env
 Step 3: Insert your Infura Key for your network (Mainnet, Rinkeby, Ropsten, etc) and your ethereum account address in the .env file
 
 Step 4: Run the project using
+
 ```
 cargo run
 ```
